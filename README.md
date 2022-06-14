@@ -1,15 +1,15 @@
 # Taskmanager1
-Taskmanager is a simple online application for creating, tracking and completing tasks or other important events
+##### Taskmanager is a simple online application for creating, tracking and completing tasks or other important events
 
 ### Built With
 
-python 3.8.2
-django 4.0.1
-Jinja2
-HTML
-Bootstrap
+- python 3.8.2
+- django 4.0.1
+- Jinja2
+- HTML
+- Bootstrap
 
-Operating system:
+-Operating system:
 Linux Ubuntu 20.04.4 LTS 
 
 ### Установка
@@ -27,24 +27,17 @@ Linux Ubuntu 20.04.4 LTS
 
 
 
-### Contact
+### Code creators
 
+Project was completed by Nikolay Dychakivsky used the course material:  https://itproger.com/news/izuchenie-django-sozdanie-sai-ta-na-python-dzhango-za-chas
+
+
+
+
+### Contact
 Nikolay Dychakivsky - nikolaidych@gmail.com
 
-Project Link: https://github.com/your_username/repo_name
-
-### Авторы
-Имена участников и контактная информация
-Проект сделан по видео курсу -[itproger.com](https://itproger.com/)
-выполнил: имя маил
-
-
-<!-- CONTACT -->
-### Contact
-
-Your Name - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: https://github.com/nick097/Taskmanager1
 
 
 
