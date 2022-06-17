@@ -19,12 +19,20 @@ Operating system:
 
 
 * clone the project ```git clone git@github.com:nick097/Taskmanager1.git```
-* go to the cloned project folder open directory taskmanager  
-* run a terminal in it
+* go to directory ```cd Taskmanager1```
+* go to directory ```cd taskmanager```
 * run server ```python3 manage.py runserver```
-(if you open a terminal in another project folder and use this command, the server will not start)
+(if you use this command in another project directory - the server will not start)
 * copy the link in the line "Starting development server" and open it in the browser
 * application is running. if you want to terminate the application, enter Ctrl+c in the terminal.
+
+***How to enter the admin panel:***
+
+add ".../admin" to the server address (example: ```http://127.0.0.1:8000/admin/```)
+
+  *Password:* ***admin***
+
+  *Login:* ***admin***
 
 
 
