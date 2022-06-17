@@ -1,7 +1,7 @@
 # Taskmanager1
 ## Taskmanager is a simple online application for creating, tracking and completing tasks or other important events
 
-### Built With
+### Requirements
 
 - python 3.8.2
 - django 4.0.1
@@ -19,8 +19,7 @@ Operating system:
 
 
 * clone the project ```git clone git@github.com:nick097/Taskmanager1.git```
-* go to directory ```cd Taskmanager1```
-* go to directory ```cd taskmanager```
+* go to directory ```cd Taskmanager1/taskmanager```
 * run server ```python3 manage.py runserver```
 (if you use this command in another project directory - the server will not start)
 * copy the link in the line "Starting development server" and open it in the browser
