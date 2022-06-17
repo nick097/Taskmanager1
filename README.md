@@ -32,7 +32,7 @@ Operating system:
 
 Project was completed by **Nikolay Dychakivsky**
 
-used the course material:  https://itproger.com/news/izuchenie-django-sozdanie-sai-ta-na-python-dzhango-za-chas
+used the course material:  [itproger.com](https://itproger.com/news/izuchenie-django-sozdanie-sai-ta-na-python-dzhango-za-chas)
 
 
 
